@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00ff41" stop-opacity="0"/><stop offset=".5" stop-color="#00ff41"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient>
+<filter id="f"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>@keyframes mv{from{transform:translateX(-300px)}to{transform:translateX(1000px)}}.p{animation:mv 3.5s linear infinite}</style>
+<line x1="0" y1="12" x2="1000" y2="12" stroke="#0d3b13" stroke-width="2"/>
+<rect class="p" x="0" y="10" width="300" height="4" fill="url(#g)" filter="url(#f)"/>
+<polygon points="500,3 509,12 500,21 491,12" fill="#000" stroke="#00ff41" stroke-width="2" filter="url(#f)"/>
+</svg>
