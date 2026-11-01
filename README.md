@@ -1,50 +1,41 @@
 <div align="center">
 
-<!-- ===== ANIMATED MATRIX BANNER ===== -->
-<img src="assets/banner.svg" alt="Edzlee M. Codera — BSIT Student | Cybersecurity Specialist" width="100%" />
+<img src="assets/banner.svg" alt="Edzlee M. Codera — BSIT Student | Aspiring Cybersecurity Professional" width="100%" />
 
-<!-- ===== TYPING ANIMATION ===== -->
 <a href="https://github.com/edzleecodera-pixel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&height=60&repeat=true&lines=UNDERSTAND+THE+THREAT.;ANTICIPATE+THE+ATTACK.;SECURE+THE+FUTURE.;%5B+BSIT+Student+%5D+%E2%86%92+%5B+Cybersecurity+Specialist+%5D" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&repeat=true&lines=UNDERSTAND+THE+THREAT.;ANTICIPATE+THE+ATTACK.;SECURE+THE+FUTURE." alt="Understand the threat. Anticipate the attack. Secure the future." />
 </a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=edzleecodera-pixel&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/edzleecodera-pixel?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=00ff41)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff41)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&color=0d1117&labelColor=0d1117)](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/)
-[![GitHub](https://img.shields.io/badge/▶_GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&color=0d1117&labelColor=0d1117)](https://github.com/edzleecodera-pixel)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/edzleecodera-pixel)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## ⚡ `> boot_sequence`
+## 👋 About Me
 
-<div align="center">
-  <img src="assets/terminal.svg" alt="Animated terminal introducing Edzlee" width="90%" />
-</div>
+I'm **Edzlee M. Codera**, a **BSIT student** building a foundation for a career in **cybersecurity**. I'm learning how systems work, how they get attacked, and how they can be defended, and I'm putting that knowledge into practice through projects in Python, Linux, networking, and web development.
+
+<div align="center"><img src="assets/terminal.svg" alt="Animated terminal introducing Edzlee" width="90%" /></div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 🧠 `> ls ./focus-areas`
+## 🎯 Areas of Interest
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
 
 ### 🛡️ Cybersecurity
-Hardening systems and studying threats from **both sides** of the fence.
-
-  </td>
-    <td width="33%" valign="top" align="center">
-
-### 🕵️ Ethical Hacking
-Probing for weaknesses so they get **fixed before attackers find them**.
+Learning how threats work and how to **defend systems against them**.
 
   </td>
     <td width="33%" valign="top" align="center">
@@ -53,24 +44,30 @@ Probing for weaknesses so they get **fixed before attackers find them**.
 Understanding how data moves, and where it can be **intercepted or protected**.
 
   </td>
+    <td width="33%" valign="top" align="center">
+
+### 🐧 Linux / CLI
+Building comfort and speed in the **terminal and command line**.
+
+  </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
 
 ### 🐍 Python
-Scripting, automation, and **custom security tooling**.
-
-  </td>
-    <td width="33%" valign="top" align="center">
-
-### 🐧 Linux / CLI
-Living in the terminal and **mastering the command line**.
+Scripting, automation, and **small practical tools**.
 
   </td>
     <td width="33%" valign="top" align="center">
 
 ### 💻 Web Development
-Building **and securing** the apps people use every day.
+Building web apps with **security in mind** from the start.
+
+  </td>
+    <td width="33%" valign="top" align="center">
+
+### ⚙️ Automation
+Connecting everyday tools to **remove repetitive work**.
 
   </td>
   </tr>
@@ -78,7 +75,7 @@ Building **and securing** the apps people use every day.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 🧰 `> ./tech_stack.sh`
+## 🧰 Technologies & Tools
 
 <div align="center">
 
@@ -94,7 +91,6 @@ Building **and securing** the apps people use every day.
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=39ff14)
 ![Activepieces](https://img.shields.io/badge/Activepieces-0d1117?style=for-the-badge&logo=activepieces&logoColor=39ff14)
 ![Kiro](https://img.shields.io/badge/Kiro-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=39ff14)
-
 ![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39ff14)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=39ff14)
 
@@ -102,36 +98,36 @@ Building **and securing** the apps people use every day.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 📡 `> tail -f ./currently_learning.log`
+## 📚 Currently Learning
 
-```diff
-+ [ACTIVE] Workflow Automation
-    └─ Gmail · Google Sheets · Drive · Forms
-    └─ Hands-off pipelines that move data where it needs to go
+| Focus | What I'm working on |
+|:--|:--|
+| **Workflow automation** | Connecting Gmail, Google Sheets, Drive, and Forms to build hands-off pipelines that move data where it needs to go |
+| **Problem solving & logic** | Strengthening my foundations in algorithms and programming to write cleaner, more efficient code |
 
-+ [ACTIVE] Problem Solving & Logic
-    └─ Algorithms & programming fundamentals
-    └─ Cleaner, faster, more efficient code
+## 🧭 Goals
 
-! [QUEUE]  Deeper dives into ethical hacking & network defense
-```
+- Build a strong base in **networking, Linux, and security fundamentals**
+- Practice safely and legally in **home labs and learning platforms**
+- Ship small **Python tools and web projects** and document what I learn
+- Work toward a career in **cybersecurity**
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 🎯 `> cat ./philosophy.md`
+## 🔐 Guiding Principles
 
 <div align="center">
 
 | 🔍 UNDERSTAND | 🎯 ANTICIPATE | 🔐 SECURE |
 |:---:|:---:|:---:|
 | **the threat** | **the attack** | **the future** |
-| Learn how attackers think, and what they target | Spot weak points before they're exploited | Build defenses that hold up in the real world |
+| Learn how attackers think and what they target | Spot weak points before they're exploited | Build defenses that hold up in the real world |
 
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 📊 `> git stats --user edzleecodera-pixel`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -142,9 +138,7 @@ Building **and securing** the apps people use every day.
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
-## 🏆 `> ./contribution_activity`
+## 🏆 Contribution Activity
 
 <div align="center">
 
@@ -158,15 +152,8 @@ Building **and securing** the apps people use every day.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `> connect --open`
+**UNDERSTAND THE THREAT. ANTICIPATE THE ATTACK. SECURE THE FUTURE.**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/edzleecodera-pixel)
-
-<br/>
-
-`root@edzlee:~# echo "UNDERSTAND THE THREAT. ANTICIPATE THE ATTACK. SECURE THE FUTURE."`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer" alt="footer" width="100%" />
+[Portfolio](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/) · [GitHub](https://github.com/edzleecodera-pixel)
 
 </div>
