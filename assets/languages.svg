@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="196" viewBox="0 0 470 196" role="img" aria-label="Languages and focus areas">
+<style>
+text{font-family:'Courier New',monospace}
+.t{font-size:18px;font-weight:bold;fill:#00ff41}
+.lbl{font-size:14px;font-weight:bold;fill:#00ff41}
+.sub{font-size:12px;fill:#39ff14}
+</style>
+<rect x="1" y="1" width="468" height="194" rx="10" fill="#0d1117" stroke="#008f11" stroke-width="2"/>
+<text x="28" y="40" class="t">Languages &amp; Focus</text>
+<line x1="28" y1="52" x2="442" y2="52" stroke="#0d3b13" stroke-width="2"/>
+<text x="28" y="78" class="lbl">Python</text>
+<text x="442" y="78" class="sub" text-anchor="end">Scripting &amp; automation</text>
+<text x="28" y="106" class="lbl">Problem solving</text>
+<text x="442" y="106" class="sub" text-anchor="end">Algorithms &amp; logic</text>
+<text x="28" y="134" class="lbl">Web development</text>
+<text x="442" y="134" class="sub" text-anchor="end">Building secure apps</text>
+<text x="28" y="162" class="lbl">Automation</text>
+<text x="442" y="162" class="sub" text-anchor="end">Gmail · Sheets · Drive · Forms</text>
+</svg>
