@@ -131,8 +131,8 @@ Connecting everyday tools to **remove repetitive work**.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=edzleecodera-pixel&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=008f11" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edzleecodera-pixel&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=39ff14&border_color=008f11" alt="Top languages" />
+<img src="assets/stats.svg" height="230" alt="GitHub stats" />
+<img src="assets/languages.svg" height="230" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=edzleecodera-pixel&hide_border=false&background=0d1117&stroke=008f11&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=39ff14&dates=008f11&currStreakNum=39ff14&sideNums=39ff14" alt="Streak stats" />
 
@@ -141,8 +141,6 @@ Connecting everyday tools to **remove repetitive work**.
 ## 🏆 Contribution Activity
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=edzleecodera-pixel&theme=matrix&no-frame=false&margin-w=8&margin-h=8)
 
 ![Snake](https://raw.githubusercontent.com/edzleecodera-pixel/edzleecodera-pixel/output/github-snake-dark.svg)
 
