@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ===== HERO BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=EDZLEE%20M.%20CODERA&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=BSIT%20Student%20%7C%20Cybersecurity%20Specialist&descSize=20&descColor=39ff14&descAlignY=58&animation=fadeIn" alt="Edzlee M. Codera banner" width="100%" />
+<!-- ===== ANIMATED MATRIX BANNER ===== -->
+<img src="assets/banner.svg" alt="Edzlee M. Codera — BSIT Student | Cybersecurity Specialist" width="100%" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://github.com/edzleecodera-pixel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=Edzlee+M.+Codera;BSIT+Student+%7C+Cybersecurity+Specialist;UNDERSTAND+THE+THREAT.;ANTICIPATE+THE+ATTACK.;SECURE+THE+FUTURE." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&height=60&repeat=true&lines=UNDERSTAND+THE+THREAT.;ANTICIPATE+THE+ATTACK.;SECURE+THE+FUTURE.;%5B+BSIT+Student+%5D+%E2%86%92+%5B+Cybersecurity+Specialist+%5D" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,53 +16,58 @@
 
 <br/>
 
-### `UNDERSTAND THE THREAT. ANTICIPATE THE ATTACK. SECURE THE FUTURE.`
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&color=0d1117&labelColor=0d1117)](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/)
+[![GitHub](https://img.shields.io/badge/▶_GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&color=0d1117&labelColor=0d1117)](https://github.com/edzleecodera-pixel)
 
-[Portfolio](https://portfolio-alpha-kohl-ifhk6q45ay.vercel.app/) · [GitHub](https://github.com/edzleecodera-pixel)
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
----
+## ⚡ `> boot_sequence`
 
-## `> whoami`
+<div align="center">
+  <img src="assets/terminal.svg" alt="Animated terminal introducing Edzlee" width="90%" />
+</div>
 
-```bash
-┌──(edzlee㉿kali)-[~]
-└─$ cat profile.txt
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-  NAME      : Edzlee M. Codera
-  HANDLE    : @edzleecodera-pixel
-  ROLE      : BSIT Student → Cybersecurity Specialist
-  MISSION   : Break things to understand them. Build defenses to keep them safe.
-  MOTTO     : Understand the threat. Anticipate the attack. Secure the future.
-  STATUS    : [■■■■■■■■□□] Leveling up every day
-```
-
----
-
-## `> ls ./focus-areas`
+## 🧠 `> ls ./focus-areas`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" align="center">
 
 ### 🛡️ Cybersecurity
 Hardening systems and studying threats from **both sides** of the fence.
 
+  </td>
+    <td width="33%" valign="top" align="center">
+
 ### 🕵️ Ethical Hacking
 Probing for weaknesses so they get **fixed before attackers find them**.
+
+  </td>
+    <td width="33%" valign="top" align="center">
 
 ### 🌐 Networking
 Understanding how data moves, and where it can be **intercepted or protected**.
 
   </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
 
 ### 🐍 Python
 Scripting, automation, and **custom security tooling**.
 
+  </td>
+    <td width="33%" valign="top" align="center">
+
 ### 🐧 Linux / CLI
 Living in the terminal and **mastering the command line**.
+
+  </td>
+    <td width="33%" valign="top" align="center">
 
 ### 💻 Web Development
 Building **and securing** the apps people use every day.
@@ -71,9 +76,9 @@ Building **and securing** the apps people use every day.
   </tr>
 </table>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## `> ./tech_stack.sh`
+## 🧰 `> ./tech_stack.sh`
 
 <div align="center">
 
@@ -95,9 +100,9 @@ Building **and securing** the apps people use every day.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## `> tail -f ./currently_learning.log`
+## 📡 `> tail -f ./currently_learning.log`
 
 ```diff
 + [ACTIVE] Workflow Automation
@@ -111,9 +116,9 @@ Building **and securing** the apps people use every day.
 ! [QUEUE]  Deeper dives into ethical hacking & network defense
 ```
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## `> cat ./philosophy.md`
+## 🎯 `> cat ./philosophy.md`
 
 <div align="center">
 
@@ -124,9 +129,9 @@ Building **and securing** the apps people use every day.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## `> git stats --user edzleecodera-pixel`
+## 📊 `> git stats --user edzleecodera-pixel`
 
 <div align="center">
 
@@ -137,9 +142,9 @@ Building **and securing** the apps people use every day.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## `> ./contribution_activity`
+## 🏆 `> ./contribution_activity`
 
 <div align="center">
 
@@ -149,9 +154,9 @@ Building **and securing** the apps people use every day.
 
 </div>
 
----
-
 <div align="center">
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### `> connect --open`
 
